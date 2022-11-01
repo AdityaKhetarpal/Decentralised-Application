@@ -1,13 +1,16 @@
 # Decentralised-Application
 
-Introduction 
+Introduction -
 
 Using Web 3.0 Methodologies, Solidity and Metamask.
 
-Built with 
+Built with -
 
-1.Solidity 
+1.Remix IDE
+
 2.Metamask 
-3.Javascript
-4. HTML
+
+3.Etherjs
+
+
 
